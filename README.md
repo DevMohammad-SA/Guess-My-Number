@@ -4,6 +4,9 @@ Guess My Number! is a simple JavaScript game where players try to guess a random
 
 ## Demo
 
+![image](https://github.com/user-attachments/assets/ea8b4a45-9a39-42e9-9cc6-ab330b6eaf9d)
+![image](https://github.com/user-attachments/assets/4f760a7b-6dc2-4714-8e78-9b281d07a858)
+![image](https://github.com/user-attachments/assets/5fd9640c-e8d8-4a62-ba9a-2720e14dbb17)
 
 
 ## Installation
